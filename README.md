@@ -21,7 +21,7 @@ This repository contains all my weekly practice exercises and assignments comple
 🔗 Live Demo: https://singhdevansh-2006.github.io/portfolio/Week-1/Practice-4/
 
 ## Assignment 1 – Personal Portfolio Website
-🔗 Live Demo: https://singhdevansh-2006.github.io/portfolio/
+🔗 Live Demo: [https://singhdevansh-2006.github.io/portfolio/](https://singhdevansh-2006.github.io/portfolio/Week-1/Assignment-1-Portfolio/)
 
 ---
 
