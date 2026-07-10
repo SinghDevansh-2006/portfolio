@@ -74,7 +74,7 @@ https://singhdevansh-2006.github.io/portfolio/Week-3/Practice-4/
 
 ## Assignment 3 – Weather App
 🔗 Live Demo:
-https://singhdevansh-2006.github.io/portfolio/Week-3/Assignment-1-WeatherApp/
+https://singhdevansh-2006.github.io/portfolio/Week-3/Assignment-Weather-App/
 
 ---
 
