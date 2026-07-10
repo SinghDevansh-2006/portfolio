@@ -26,7 +26,7 @@ https://singhdevansh-2006.github.io/portfolio/Week-1/Practice-4/
 
 ## Assignment 1 – Personal Portfolio Website
 🔗 Live Demo:
-https://singhdevansh-2006.github.io/portfolio/
+[https://singhdevansh-2006.github.io/portfolio/](https://singhdevansh-2006.github.io/portfolio/Week-1/Assignment-1-Portfolio/)
 
 ---
 
