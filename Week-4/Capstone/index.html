@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Student Management Dashboard</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Student Management Dashboard</h1>
+
+<div class="input-group">
+
+<input
+type="text"
+id="name"
+placeholder="Student Name">
+
+<input
+type="number"
+id="age"
+placeholder="Age">
+
+<input
+type="text"
+id="course"
+placeholder="Course">
+
+<button
+class="add-btn"
+onclick="addStudent()">
+Add Student
+</button>
+
+</div>
+
+<input
+class="search-box"
+type="text"
+id="search"
+placeholder="Search by Name or Course..."
+onkeyup="displayStudents()">
+
+<table>
+
+<thead>
+
+<tr>
+
+<th>Name</th>
+
+<th>Age</th>
+
+<th>Course</th>
+
+<th>Actions</th>
+
+</tr>
+
+</thead>
+
+<tbody id="studentTable">
+
+</tbody>
+
+</table>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+<footer style="text-align:center;margin-top:30px;color:gray;">
+    Built by Devansh Singh • SkillNexis Web Development Internship 2026
+</footer>
+
+</html>
